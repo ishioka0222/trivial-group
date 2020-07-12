@@ -1,4 +1,4 @@
-import data.real.basic
+import data.nat.basic
 
 def triv : set nat := { 1 }
 
