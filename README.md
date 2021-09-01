@@ -11,5 +11,5 @@ Leanを用いた自然数の部分集合{1}が自然数の掛け算で群とな�
 2. このリポジトリをcloneします
 
 ```
-$ leanproject get https://github.com/h-ishioka/trivial-group.git
+$ leanproject get https://github.com/ishioka0222/trivial-group.git
 ```
